@@ -1,3 +1,5 @@
+//CSCI 630 
+
 // Flyweight interface
 interface IBird {
   draw(x: number, y: number): void;
